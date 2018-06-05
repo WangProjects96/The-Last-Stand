@@ -1,0 +1,30 @@
+﻿  main.cpp
+e:\the_last_stand\the_last_stand\main.cpp(71): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(72): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(112): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(123): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(136): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(165): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(179): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(199): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(227): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(376): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(381): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(403): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(404): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(420): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(434): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(435): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(436): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(438): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(452): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(453): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(470): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(476): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(481): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(483): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(490): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(504): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(512): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+e:\the_last_stand\the_last_stand\main.cpp(523): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  The_Last_Stand.vcxproj -> E:\The_Last_Stand\x64\Debug\The_Last_Stand.exe

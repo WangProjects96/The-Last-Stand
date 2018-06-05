@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Buff.cpp" />
+    <ClCompile Include="cell.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="gameView.cpp" />
+    <ClCompile Include="grid.cpp" />
+    <ClCompile Include="character.cpp" />
+    <ClCompile Include="Iskill.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="playable_character.cpp" />
+    <ClCompile Include="Spells.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Buff.h" />
+    <ClInclude Include="cell.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameView.h" />
+    <ClInclude Include="grid.h" />
+    <ClInclude Include="character.h" />
+    <ClInclude Include="Iskill.h" />
+    <ClInclude Include="playable_character.h" />
+    <ClInclude Include="Spells.h" />
+  </ItemGroup>
+</Project>
